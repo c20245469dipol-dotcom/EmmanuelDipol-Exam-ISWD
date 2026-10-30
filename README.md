@@ -1,6 +1,6 @@
 # Minu Computer Cafe
 
-**Live site:** https://github.com/c20245469dipol-dotcom/Dipol-Midterm-ISWD-exam.git
+**Live site:**  https://c20245469dipol-dotcom.github.io/EmmanuelDipol-Exam-ISWD/
 
 ## About
 
